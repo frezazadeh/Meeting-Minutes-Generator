@@ -30,7 +30,7 @@ All meeting minutes are then provided as a downloadable PDF, making follow-ups a
     pip install -r requirements.txt
     ```
 
-3. Create a `.env` file and add your OpenAI API key:
+3. Create a `.env` file and add your API key:
     ```
     OPENAI_API_KEY=your_openai_api_key
     HF_TOKEN=your_HF_TOKEN_api_key
