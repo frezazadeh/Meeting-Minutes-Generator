@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow.svg)
+
 # Meeting Minutes Generator
 
 This project transcribes meeting audio using OpenAI's Whisper API and generates professional meeting minutes using a Llama-based model. The minutes are then provided as a downloadable PDF.
