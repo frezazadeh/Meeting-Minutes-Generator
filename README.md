@@ -2,6 +2,15 @@
 
 This project transcribes meeting audio using OpenAI's Whisper API and generates professional meeting minutes using a Llama-based model. The minutes are then provided as a downloadable PDF.
 
+This app transcribes meeting audio using OpenAI’s Whisper API 🎙️ and leverages a Llama-based model to generate professional meeting minutes. It even supports generating minutes in Markdown format with a refined, formal style, featuring:
+
+A concise summary with attendees, location, and date 📅
+Detailed discussion points and key takeaways 🔍
+Clearly defined action items with respective owners ✅
+
+All meeting minutes are then provided as a downloadable PDF, making follow-ups and record keeping easier than ever.
+
+
 ## Setup
 
 1. Clone the repository:
